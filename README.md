@@ -1,2 +1,2 @@
 # Diferential-Evolution
-![](https://github.com/eriksonsantos/Diferential-Evolution/blob/main/mygif.gif)
+![](https://github.com/eriksonsantos/Diferential-Evolution/blob/main/gif.gif)
